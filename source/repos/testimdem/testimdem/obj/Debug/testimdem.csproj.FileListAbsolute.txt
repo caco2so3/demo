@@ -1,0 +1,11 @@
+C:\Users\caco2\source\repos\testimdem\testimdem\bin\Debug\testimdem.exe.config
+C:\Users\caco2\source\repos\testimdem\testimdem\bin\Debug\testimdem.exe
+C:\Users\caco2\source\repos\testimdem\testimdem\bin\Debug\testimdem.pdb
+C:\Users\caco2\source\repos\testimdem\testimdem\obj\Debug\testimdem.csprojAssemblyReference.cache
+C:\Users\caco2\source\repos\testimdem\testimdem\obj\Debug\testimdem.Form1.resources
+C:\Users\caco2\source\repos\testimdem\testimdem\obj\Debug\testimdem.Properties.Resources.resources
+C:\Users\caco2\source\repos\testimdem\testimdem\obj\Debug\testimdem.csproj.GenerateResource.cache
+C:\Users\caco2\source\repos\testimdem\testimdem\obj\Debug\testimdem.csproj.CoreCompileInputs.cache
+C:\Users\caco2\source\repos\testimdem\testimdem\obj\Debug\testimdem.exe
+C:\Users\caco2\source\repos\testimdem\testimdem\obj\Debug\testimdem.pdb
+C:\Users\caco2\source\repos\testimdem\testimdem\obj\Debug\testimdem.Form2.resources
